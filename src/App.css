@@ -1,0 +1,32 @@
+h1{
+  font-weight: 900 !important;
+  font-size: 45px !important;
+  margin: 20px !important;
+  margin-bottom: 40px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input{
+  width: 90%;
+  display: flex;
+  align-items: flex-start;
+}
+
+.items-container{
+  text-align: left;
+  font-weight: 500;
+}
+
+.kg-row{
+  margin: 10px 5px;
+}
+
+.kg-button{
+    min-width: 80px;
+}
+
+.kg-add-button{
+  margin-right: 9rem;
+}
